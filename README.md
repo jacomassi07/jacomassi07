@@ -1,8 +1,6 @@
-## Hello World! Aqui é o Renan ✌️
-- JavaScript ❤️<br>
-- Iniciante no Game Dev<br>
-- Estudante de tecnologias no tempo livre<br>
-- Linux >>>> Windows<br>
+## Hello World!
+- @j.jacomassi<br>
+- 1° TII - IFSP<br>
 
 ## Meus Status
 <div align="center">
